@@ -1,0 +1,12 @@
+h1 {
+    color: brown;
+    font-size: 23 px;
+    padding: 12;
+}
+p {
+    color: blue;
+}
+
+.output {
+    color: blueviolet;
+}
